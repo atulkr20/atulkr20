@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=ATUL%20JHA&fontSize=90&animation=twinkling&fontColor=36BCF7" />
+  <img src="https://kodinger-monokai-gradient.vercel.app/api?text=ATUL%20JHA&subtext=Backend%20Architect&wrapper=true&vCenter=true&width=800&height=200&fontSize=80&theme=dark" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 ---
 
-### 📉 Contribution Matrix
+### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulkr20&theme=tokyo-night&hide_border=true&area=true&color=36BCF7" width="100%" />
 </p>
