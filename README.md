@@ -26,13 +26,6 @@ Final-year **CSE student** specializing in backend architecture and distributed 
 
 ---
 
-### 🏆 Achievement Showcase
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atulkr20&theme=darkhub&no-bg=true&no-frame=true&column=4" alt="atulkr20 trophies" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulkr20&theme=tokyo-night&hide_border=true&area=true" width="100%" />
@@ -47,9 +40,9 @@ Final-year **CSE student** specializing in backend architecture and distributed 
 
 ---
 
-### ⏰ Coding Hours
+### 📊 Language Proficiency
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=atulkr20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Wakatime" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkr20&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=ffffff" width="60%" />
 </p>
 
 ---
