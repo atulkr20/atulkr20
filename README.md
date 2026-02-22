@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atul-jha-303051229/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://x.com/atulkr21"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x"></a>
-  <a href="mailto:atuljha@example.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"></a>
+  <a href="https://x.com/AtulkrJha21"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x"></a>
+  <a href="mailto:atuljha21542@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
