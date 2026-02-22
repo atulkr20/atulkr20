@@ -14,20 +14,21 @@
 
 ---
 
-### 👨‍💻 About System
-
-<pre>
-> Initializing Atul_Jha.sys...
-> Status: Final Year CSE Student
-> Focus: Scalable Backend Architecture & Distributed Systems
-> Skills: Clean Code, System Design, Database Optimization
-</pre>
+### 👨‍💻 About Me
+Final-year **CSE student** specializing in backend architecture and distributed systems. I focus on building scalable, performant services and writing clean, type-safe code.
 
 ---
 
 ### 🐍 Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/atulkr20/atulkr20/output/github-contribution-grid-snake.svg" alt="snake" width="100%">
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulkr20&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -39,14 +40,7 @@
 
 ---
 
-### 🏗️ Projects in Progress
-- **LedgerPay** — *Focusing on transaction atomicity and financial ledger integrity.*
-- **FaultForge** — *Developing a platform for chaos engineering and system resilience.*
-- **Bob the Builder** — *A platform for ephemeral backend infrastructure automation.*
-
----
-
-### 📈 System Analytics
+### 📊 System Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atulkr20&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkr20&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=ffffff" width="45%" />
