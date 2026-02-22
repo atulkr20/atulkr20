@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=150&section=header&text=ATUL%20JHA&fontSize=80&fontAlignY=50&animation=fadeIn" />
-</p>
 
 <p align="center">
   <b>Computer Science & Engineering Student • Backend Developer</b>
