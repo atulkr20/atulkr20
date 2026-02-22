@@ -15,40 +15,51 @@
 ---
 
 ### 👨‍💻 About System
-```bash
+
+<pre>
 > Initializing Atul_Jha.sys...
 > Status: Final Year CSE Student
 > Focus: Scalable Backend Architecture & Distributed Systems
 > Skills: Clean Code, System Design, Database Optimization
-🐍 Contribution Activity
+</pre>
+
+---
+
+### 🐍 Contribution Activity
 <p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/atulkr20/atulkr20/output/github-contribution-grid-snake.svg" alt="snake" width="100%">
+  <img src="https://raw.githubusercontent.com/atulkr20/atulkr20/output/github-contribution-grid-snake.svg" alt="snake" width="100%">
 </p>
 
-🛠 Tech Stack
+---
+
+### 🛠 Tech Stack
 <p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,nodejs,express,postgres,mongodb,redis,rabbitmq,prisma,docker,nginx,linux,git,postman,jest" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongodb,redis,rabbitmq,prisma,docker,nginx,linux,git,postman,jest" />
 </p>
 
-🏗️ Projects in Progress
-LedgerPay — Focusing on transaction atomicity and financial ledger integrity.
+---
 
-FaultForge — Developing a platform for chaos engineering and system resilience.
+### 🏗️ Projects in Progress
+- **LedgerPay** — *Focusing on transaction atomicity and financial ledger integrity.*
+- **FaultForge** — *Developing a platform for chaos engineering and system resilience.*
+- **Bob the Builder** — *A platform for ephemeral backend infrastructure automation.*
 
-Bob the Builder — A platform for ephemeral backend infrastructure automation.
+---
 
-📈 System Analytics
+### 📈 System Analytics
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Datulkr20%26show_icons%3Dtrue%26theme%3Dnightowl%26hide_border%3Dtrue%26title_color%3D36BCF7%26icon_color%3D36BCF7%26text_color%3Dffffff" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Datulkr20%26layout%3Dcompact%26theme%3Dnightowl%26hide_border%3Dtrue%26title_color%3D36BCF7%26text_color%3Dffffff" width="45%" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Datulkr20%26theme%3Dnightowl%26hide_border%3Dtrue%26stroke%3D36BCF7%26fire%3D36BCF7%26ring%3D36BCF7" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atulkr20&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkr20&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=ffffff" width="45%" />
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dnightowl%26quote%3DSimplicity%2520is%2520the%2520ultimate%2520sophistication." alt="Quote" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulkr20&theme=tokyonight&hide_border=true&stroke=36BCF7&fire=36BCF7&ring=36BCF7" width="95%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simplicity%20is%20the%20ultimate%20sophistication." alt="Quote" />
 </p>
 
 <p align="center"><i>Last Build: February 2026</i></p>
