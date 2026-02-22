@@ -40,9 +40,11 @@ Final-year **CSE student** specializing in backend architecture and distributed 
 
 ---
 
-### 📊 Language Proficiency
+### ⚙️ Core Specialization
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkr20&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=ffffff" width="60%" />
+  <img src="https://img.shields.io/badge/Scalable_Architecture-000000?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Design-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database_Optimization-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
